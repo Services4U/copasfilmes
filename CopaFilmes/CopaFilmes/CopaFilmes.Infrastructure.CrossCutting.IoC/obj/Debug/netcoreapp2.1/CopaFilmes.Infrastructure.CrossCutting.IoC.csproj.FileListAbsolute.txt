@@ -1,0 +1,17 @@
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.deps.json
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.AppService.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Domain.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Persistence.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.AppService.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Persistence.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Domain.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting.IoC\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.IoC.pdb

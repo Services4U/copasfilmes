@@ -1,0 +1,13 @@
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\bin\Debug\netcoreapp2.1\CopaFilmes.AppService.deps.json
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\bin\Debug\netcoreapp2.1\CopaFilmes.AppService.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\bin\Debug\netcoreapp2.1\CopaFilmes.AppService.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\bin\Debug\netcoreapp2.1\CopaFilmes.Domain.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\bin\Debug\netcoreapp2.1\CopaFilmes.Domain.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\obj\Debug\netcoreapp2.1\CopaFilmes.AppService.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\obj\Debug\netcoreapp2.1\CopaFilmes.AppService.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\obj\Debug\netcoreapp2.1\CopaFilmes.AppService.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\obj\Debug\netcoreapp2.1\CopaFilmes.AppService.AssemblyInfo.cs
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\obj\Debug\netcoreapp2.1\CopaFilmes.AppService.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.AppService\obj\Debug\netcoreapp2.1\CopaFilmes.AppService.pdb
