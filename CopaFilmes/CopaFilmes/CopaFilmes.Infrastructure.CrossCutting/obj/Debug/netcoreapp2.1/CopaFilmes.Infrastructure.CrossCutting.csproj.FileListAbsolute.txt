@@ -1,0 +1,11 @@
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.deps.json
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.dll
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.pdb
+C:\Users\alexa\Projetos\Lambda3\CopaFilmes\CopaFilmes\CopaFilmes.Infrastructure.CrossCutting\obj\Debug\netcoreapp2.1\CopaFilmes.Infrastructure.CrossCutting.csprojResolveAssemblyReference.cache
