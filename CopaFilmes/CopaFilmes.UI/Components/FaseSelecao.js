@@ -16,7 +16,7 @@
                 <div class="col-md-3">Selecionados {{contador}} de {{totalselecionado}} filmes</div>
                 <div class="col-md-3"></div>
                 <div class="col-md-3"></div>
-                <div class="col-md-3"><a class="btn btn-secondary" href="#" role="button" v-on:click="gerarcampeonato">GERAR MEU CAMPEONATO</a></div>
+                <div class="col-md-3"><router-link to="/" @click.native="gerarcampeonato" class="btn btn-secondary">GERAR MEU CAMPEONATO</router-link></div>
             </div>
             <hr>
             <div class="row">
@@ -50,7 +50,7 @@
             },
             contador: 0,
             totalselecionado: 8,
-            FilmesSelecionados: []
+            filmesSelecionados: []
         }
     },
     mounted: function () {
@@ -71,15 +71,17 @@
             }
         },
         gerarcampeonato: function (event) {
-
+            
             if (this.contador < this.totalselecionado || this.contador > this.totalselecionado) {
                 $("#msg").html('Obrigatório selecionar 8 filmes.');
                 $("#modalMsg").modal();
+                this.contador = 0;
+                this.seleciona.filmes = [];
             }
             else {
 
                 var data = {
-                    FilmesSelecionados: this.seleciona.filmes
+                    filmesSelecionados: this.seleciona.filmes
                 }
 
                 axios.post('http://localhost:10738/campeonato/gerarmeucampeonato',
@@ -89,14 +91,19 @@
                         }
                     })
                     .then(response => {
-                        $("#primeiroLugar").html('1o. Lugar ' + response.data.resultado.filmesVencedores[0].titulo + '<br/>');
-                        $("#segundoLugar").html('2o. Lugar ' + response.data.resultado.filmesVencedores[1].titulo);
-                        $("#modalVencedores").modal();
+
+                        this.$router.push({
+                            path: '/Resultado', component: ResultadoComponent, query: { pposicao: '1o. Lugar', campeao: response.data.resultado.filmesVencedores[0].titulo, sposicao: '2o. Lugar', vice: response.data.resultado.filmesVencedores[1].titulo }
+                        });
+
                     })
                     .catch(error => {
                         console.log(error)
                         this.errored = true
                     })
+
+                this.contador = 0;
+                this.seleciona.filmes = [];
             }
         }
     }
