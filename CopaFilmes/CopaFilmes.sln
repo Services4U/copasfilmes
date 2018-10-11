@@ -37,6 +37,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CopaFilmes.UI", "CopaFilmes
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopaFilmes.Test", "CopaFilmes.Test\CopaFilmes.Test.csproj", "{D5C44258-04C5-4657-9867-0B9098E3346C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{605C25F7-393F-4BDD-9380-BD048889A42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{605C25F7-393F-4BDD-9380-BD048889A42B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{605C25F7-393F-4BDD-9380-BD048889A42B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D5C44258-04C5-4657-9867-0B9098E3346C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C44258-04C5-4657-9867-0B9098E3346C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C44258-04C5-4657-9867-0B9098E3346C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C44258-04C5-4657-9867-0B9098E3346C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

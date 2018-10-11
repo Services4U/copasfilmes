@@ -3,7 +3,7 @@ const ResultadoComponent = { template: '<ResultadoComponent></ResultadoComponent
 
 const routes = [
     { path: '/faseselecao', component: FaseSelecaoComponent },
-    { path: '/resultado', component: ResultadoComponent },
+    { path: '/resultado', component: ResultadoComponent, props: true },
     { path: '*', redirect: '/faseselecao' }
 ]
 
